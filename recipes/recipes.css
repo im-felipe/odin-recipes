@@ -1,0 +1,31 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 400px;
+    background-color: white;
+}
+
+img {
+    padding: 0%;
+    margin: 0%;
+    width: 400px;
+}
+
+h2,
+h3,
+p,
+li {
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
